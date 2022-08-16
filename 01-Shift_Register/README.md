@@ -1,6 +1,6 @@
 # First Exmaple of using D flip flop and registers in Vitis HLS
 
-In this example I've design a simple register containing three D flip flops.
+In this example I've designed a simple shift register containing three D flip flops.
 
 The picture shows the HLS shift register module containing one binary input and three binary outputs:
 
