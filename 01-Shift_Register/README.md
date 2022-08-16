@@ -2,7 +2,7 @@
 
 In this example I've design a simple register containing three D flip flops.
 
-As the pictures are shows the HLS module that has one binary input and three binary outputs:
+The picture shows the HLS shift register module containing one binary input and three binary outputs:
 
 ![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/01-Shift_Register/DFF-Lab0-schematics.png?raw=true)
 
