@@ -1,8 +1,21 @@
-# First Exmaple of using D flip flop and registers in Vitis HLS
+# there is an Exmaple of using shift registers in Vitis HLS
 
-In this example I've design a simple register containing three D flip flops.
+In this example I've designed a circular shift register containing one static register.
 
-As the picture is shown bellow the module has one binary input and three binary outputs.
+The picture shows the HLS circular shift register module containing N=17 bit parallel input and output.
+
+![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/03-Circular_Shift_Register/circular_shift.drawio.png?raw=true)
+
+
+
+And here arethe Synthesis report and the waveform generation from the Co-Simulation:
+
+![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/03-Circular_Shift_Register/Synthesis_Report.JPG?raw=true)
+
+
+![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/03-Circular_Shift_Register/waveform.JPG?raw=true)
+
+
 
 I've used Digilent #PYNQ #Z1 and tested these projects on this board.
 
