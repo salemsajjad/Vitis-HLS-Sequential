@@ -8,7 +8,7 @@ The picture shows the HLS shift register module containing one binary input and 
 
 
 
-And here arethe Synthesis report and the waveform generation from the Co-Simulation:
+And here are the Synthesis report and the waveform generation from the Co-Simulation:
 
 ![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/02-Shift_Register_using_Static_Variable/synthesis_report.JPG?raw=true)
 
