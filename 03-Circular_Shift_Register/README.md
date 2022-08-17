@@ -1,4 +1,4 @@
-# there is an Exmaple of using shift registers in Vitis HLS
+# there is an Exmaple of using circular shift registers in Vitis HLS
 
 In this example I've designed a circular shift register containing one static register.
 
