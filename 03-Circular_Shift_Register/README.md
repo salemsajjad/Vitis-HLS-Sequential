@@ -8,7 +8,7 @@ The picture shows the HLS circular shift register module containing N=17 bit par
 
 
 
-And here arethe Synthesis report and the waveform generation from the Co-Simulation:
+And here are the Synthesis report and the waveform generation from the Co-Simulation:
 
 ![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/03-Circular_Shift_Register/Synthesis_Report.JPG?raw=true)
 
