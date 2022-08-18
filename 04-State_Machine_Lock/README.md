@@ -4,7 +4,7 @@ In this example I've showed a simple State Machine in HLS C/C++ for unlocking a 
 
 As the picture is shown below the module has one 4-bit input for the key and two binary Enter and Lock inputs.
 
-For the outputs we have an one.bit door_open and an 8-bit seven segment outputs.
+For the outputs we have an 1-bit door_open and an 8-bit seven segment outputs.
 
 ![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/04-State_Machine_Lock/statemachine.jpg?raw=true)
 
