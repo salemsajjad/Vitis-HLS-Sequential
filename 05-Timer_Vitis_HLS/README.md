@@ -1,7 +1,7 @@
 # Here is my HLS Timer IP core desigend with Vitis HLS
 
 
-As the picture is shown below the module has one N-bit input for determining the Timing Interval and a "Start" port and "End" output.
+As the picture shown below the module has one N-bit input for determining the Timing Interval and a "Start" port and "End" output.
 
 When the timer receives a logic value '1' ib Start input, it counts n-clock cycles and activates the End output.
 
