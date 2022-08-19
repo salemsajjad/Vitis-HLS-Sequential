@@ -1,6 +1,6 @@
 # Vitis HLS Sequential Projects
 
-This repository contains my combinational Vitis HLS codes, Vivado projects and bitstream files.
+This repository contains my sequential Vitis HLS codes, Vivado projects and bitstream files.
 
 ![alt text](https://github.com/salemsajjad/Vitis-HLS-Combinational/blob/main/01-basic_output/HLS.JPG?raw=true)
 
