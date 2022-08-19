@@ -1,7 +1,7 @@
 # Clock Divider IP core desigend with Vitis HLS
 
 
-This IP core has an input and a output.
+This IP core has an input and an output.
 
 In the test bench I divided the clock by 20 and he generated clock has 50% duty cycle.
 
