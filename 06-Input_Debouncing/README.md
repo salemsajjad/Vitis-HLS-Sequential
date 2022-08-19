@@ -3,7 +3,7 @@
 
 the picture shows a module has an input and a output.
 
-we can two states : Transfer state and Delay state
+we have two states : Transfer state and Delay state
 
 Transfer state connects the input to the output directly and delay state enables after changing in input 
 and keeps the output value unchanged for a few clocks in order to debouncing the input.
