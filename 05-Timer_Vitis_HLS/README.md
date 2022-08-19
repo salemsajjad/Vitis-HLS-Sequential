@@ -3,7 +3,7 @@
 
 As the picture is shown below the module has one N-bit input for determining the Timing Interval and a "Start" port and "End" output.
 
-When the timer receivs a logic value '1' ib Start input, it counts n-clock cycles and activates the End output.
+When the timer receives a logic value '1' ib Start input, it counts n-clock cycles and activates the End output.
 
 ![alt text](https://github.com/salemsajjad/Vitis-HLS-Sequential/blob/main/05-Timer_Vitis_HLS/Photos/timer_block_diagram.png?raw=true)
 
