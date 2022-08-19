@@ -1,7 +1,7 @@
 # Here is my push-button debouncing IP core desigend with Vitis HLS
 
 
-the picture shows a module has an input and a output.
+the picture shows a module has an input and an output.
 
 we have two states : Transfer state and Delay state
 
