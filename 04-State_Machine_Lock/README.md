@@ -2,7 +2,7 @@
 
 In this example I've showed a simple State Machine in HLS C/C++ for unlocking a door.
 
-As the picture is shown below the module has one 4-bit input for the key and two binary Enter and Lock inputs.
+As the picture shown below the module has one 4-bit input for the key and two binary Enter and Lock inputs.
 
 For the outputs we have an 1-bit door_open and an 8-bit seven segment outputs.
 
